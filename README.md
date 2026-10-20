@@ -1,14 +1,15 @@
 # RS-Analysis
 
-**Sustainability Analysis of Recommender Systems**
+**Sustainability Analysis of Recommender Systems**<br>
 *Measuring the trade-off between recommendation quality and energy consumption / carbon footprint.*
 
 ![Green-In Prize](https://img.shields.io/badge/🏆%20Green--In%20Prize-2025-2E7D32)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 
-> 🏆 **Green-In Prize: Best work on energy-efficient algorithms**  
-> *I Green AI Symposium*, organized by the Cátedra INDITEX UDC de IA en Algoritmos Verdes at CITIC, Universidade da Coruña (A Coruña, November 2025).
+> 🏆 **Green-In Prize: Best work on energy-efficient algorithms**<br>
+> *I Green AI Symposium*, organized by the Cátedra INDITEX UDC de IA en Algoritmos Verdes at CITIC, Universidade da Coruña (A Coruña, November 2025).<br>
 > 👉 [Read more on LinkedIn](https://lnkd.in/p/eGDsHrcB)
+
 ## About
 
 Training and serving recommender models consumes a lot of resources, yet model choice is usually driven by accuracy alone.
@@ -32,5 +33,5 @@ pip install -r requirements.txt
 
 ## Authors
 
-**Xesús Patiño**, Jorge Paz-Ruza, Bertha Guijarro-Berdiñas and Amparo Alonso-Betanzos  
+**Xesús Patiño**, Jorge Paz Ruza, Bertha Guijarro Berdiñas and Amparo Alonso Betanzos  
 Universidade da Coruña · CITIC
