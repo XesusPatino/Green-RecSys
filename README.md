@@ -1,6 +1,7 @@
 # RS-Analysis
 
-**Sustainability analysis of recommender systems**: measuring the trade-off between recommendation quality and energy consumption / carbon footprint.
+**Sustainability Analysis of Recommender Systems**
+*Measuring the trade-off between recommendation quality and energy consumption / carbon footprint.*
 
 ![Green-In Prize](https://img.shields.io/badge/🏆%20Green--In%20Prize-2025-2E7D32)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
