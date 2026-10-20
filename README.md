@@ -1,4 +1,4 @@
-# RS-Analysis
+# Green-RecSys
 
 **Sustainability Analysis of Recommender Systems**<br>
 *Measuring the trade-off between recommendation quality and energy consumption / carbon footprint.*
